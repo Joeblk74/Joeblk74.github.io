@@ -1,0 +1,29 @@
+html, body {
+    font-family: 'Roboto',
+sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #516C8D;
+    font-size: 35px;
+    font-weight: 100; 
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+
+body {
+    background: url(techlung.jpg) no-repeat center
+    center;
+        background-size: cover;
+        height: 800px;
+}
+/* .header h1 {
+    color: #516C8D;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 10px; */
+}
+
